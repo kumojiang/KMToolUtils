@@ -1,0 +1,3 @@
+[submodule "KMToolUtils/3party/SDVersion"]
+	path = KMToolUtils/3party/SDVersion
+	url = https://github.com/sebyddd/SDVersion.git
