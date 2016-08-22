@@ -2,7 +2,7 @@
 //  UILabel+KMToolUtils.m
 //  KMToolUtilsDemo
 //
-//  Created by zalejiang on 16/8/22.
+//  Created by kumojiang on 16/8/22.
 //  Copyright © 2016年 kumo. All rights reserved.
 //
 

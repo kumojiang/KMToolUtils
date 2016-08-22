@@ -1,5 +1,5 @@
 //
-//  UILabel+KMToolUtils.h
+//  UIImage+KMToolUtils.h
 //  KMToolUtilsDemo
 //
 //  Created by kumojiang on 16/8/22.
@@ -9,6 +9,7 @@
 #import <Foundation/Foundation.h>
 #import <UIKit/UIKit.h>
 
-@interface UILabel (KMToolUtils)
-+(UILabel*)labelWithText:(NSString*)strText color:(UIColor*)color font:(UIFont*)font;
+@interface UIImage (KMToolUtils)
++ (UIImage *)imageWithColor:(UIColor *)color;
+- (UIImage *)adapterSize:(CGSize)rectSize;
 @end
