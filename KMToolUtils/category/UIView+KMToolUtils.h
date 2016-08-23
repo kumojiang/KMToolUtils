@@ -17,4 +17,9 @@
 
 -(UIView*)borderWidth:(CGFloat)borderWidth color:(UIColor*)color;
 
+
+/*
+ * Gesture function
+ */
+-(void)addTapDismissEdit;
 @end
